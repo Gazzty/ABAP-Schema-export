@@ -1,9 +1,9 @@
-================================================================================
+---
 PROGRAM:     Y_SCHEMA_EXPORT
 TITLE:       PE01 Schema Export Tool
 AUTHOR:      Gustavo T. Muiños
 DESCRIPTION: Exports PE01 payroll schemas and related PCRs to a single text file
-================================================================================
+---
 
 FEATURES
 --------
