@@ -67,5 +67,3 @@ ERROR HANDLING
 - Missing schemas/rules are skipped
 - Table structure differences handled dynamically
 - File write errors displayed as warnings
-
-================================================================================
